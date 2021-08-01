@@ -30,6 +30,7 @@ if(filesArr.length==0)
 //     console.log(`-b and -n can't be executed at the same time. Please enter only one at a time`);
 //     return;
 // }
+//
 
 //******************* check for file existence*********************
 for(i=0;i<filesArr.length;i++)
